@@ -10,7 +10,7 @@
 记得自己曾经有个梦想：希望在输入法里面输入“lyq”三个字母就能显示出自己的名字。有人说你自己多输入几遍不就有了，看似多么简单的实现渠道，却欺骗了自己。
 
 # 联系我
-Github：[鲁雨没有晴天](https://github.com/Worser)
+Github：[鲁雨没有晴天](https://worser.github.io/lucas)
 
 知乎：[鲁雨晴](https://www.zhihu.com/people/lucas_q)
 
