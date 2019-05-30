@@ -21,5 +21,3 @@ Github：[鲁雨没有晴天](https://worser.github.io/lucas)
 基于WordPress的个人网站：[鲁雨没有晴天](https://qing2jin.com/)
 
 微信公众号：鲁雨没有晴天
-
-![鲁雨没有晴天](https://mmbiz.qpic.cn/mmbiz_jpg/hlqibD2F2kvMnrCowIGzaD8sDdHvjV87VAibOhketr73MdSwG2rStBmibYZjaxw3ic4blFrz6MuafTqu2AkB47ZMMQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"公众号图片")
